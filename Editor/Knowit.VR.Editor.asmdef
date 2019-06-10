@@ -1,0 +1,16 @@
+{
+    "name": "Knowit.VR.Editor",
+    "references": [
+        "GUID:988ca94aaaf27384ea88243ed3ff2ef6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

@@ -1,0 +1,12 @@
+{
+  "name": "com.knowit.vr",
+  "displayName": "Knowit VR Essentials",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "description": "Minimal package containing the bear minimum need to get startet with VR in Unity",
+  "keywords": [
+    "VR",
+    "Essentials",
+    "Simple"
+  ]
+}
